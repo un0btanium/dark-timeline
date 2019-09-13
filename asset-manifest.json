@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dark-timeline/static/css/main.2cce8147.chunk.css",
+    "main.js": "/dark-timeline/static/js/main.46c26ad3.chunk.js",
+    "main.js.map": "/dark-timeline/static/js/main.46c26ad3.chunk.js.map",
+    "runtime~main.js": "/dark-timeline/static/js/runtime~main.10c583a4.js",
+    "runtime~main.js.map": "/dark-timeline/static/js/runtime~main.10c583a4.js.map",
+    "static/js/2.367ad6c5.chunk.js": "/dark-timeline/static/js/2.367ad6c5.chunk.js",
+    "static/js/2.367ad6c5.chunk.js.map": "/dark-timeline/static/js/2.367ad6c5.chunk.js.map",
+    "index.html": "/dark-timeline/index.html",
+    "precache-manifest.3c81a6223a2c216adac903844ac858b1.js": "/dark-timeline/precache-manifest.3c81a6223a2c216adac903844ac858b1.js",
+    "service-worker.js": "/dark-timeline/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/dark-timeline/static/css/main.2cce8147.chunk.css.map"
+  }
+}
