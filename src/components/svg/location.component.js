@@ -17,7 +17,7 @@ export default class Location extends Component {
 			<>
 				<rect
 					x={200} y={this.props.location.y-10}
-					width={1800} height={this.props.location.height}
+					width={1650} height={this.props.location.height}
 					fill={this.state.color}
 					onMouseEnter={() => this.setState({ color: "#555555" })}
 					onMouseLeave={() => this.setState({ color: "#444444" })}

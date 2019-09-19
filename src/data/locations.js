@@ -5,30 +5,35 @@ var data = {
 			description: "Some sample text",
 			height: 75
 		},
+		"Kahnwald Home": {
+			displayName: "Kahnwald Home",
+			description: "Some sample text",
+			height: 75
+		},
+		"Ines Home": {
+			displayName: "Ines Home",
+			description: "Some sample text",
+			height: 30
+		},
+		"Hospital": {
+			displayName: "Hospital",
+			description: "Some sample text",
+			height: 30
+		},
 		"Street": {
 			displayName: "Street",
 			description: "Some sample text",
-			height: 40
+			height: 50
 		},
-		"Bridge": {
-			displayName: "Bridge",
+		"See": {
+			displayName: "See",
 			description: "Some sample text",
-			height: 40
+			height: 50
 		},
-		"Forrest": {
-			displayName: "Forrest",
+		"Church": {
+			displayName: "Curch",
 			description: "Some sample text",
-			height: 40
-		},
-		"Caves": {
-			displayName: "Caves",
-			description: "Some sample text",
-			height: 40
-		},
-		"Wormhole": {
-			displayName: "Einstein-Rosen Bridge",
-			description: "Some sample text",
-			height: 40
+			height: 50
 		},
 	},
 	1986: {
@@ -37,30 +42,35 @@ var data = {
 			description: "Some sample text",
 			height: 75
 		},
+		"Kahnwald Home": {
+			displayName: "Kahnwald Home",
+			description: "Some sample text",
+			height: 75
+		},
+		"Ines Home": {
+			displayName: "Ines Home",
+			description: "Some sample text",
+			height: 30
+		},
+		"Hospital": {
+			displayName: "Hospital",
+			description: "Some sample text",
+			height: 30
+		},
 		"Street": {
 			displayName: "Street",
 			description: "Some sample text",
-			height: 40
+			height: 50
 		},
-		"Bridge": {
-			displayName: "Bridge",
+		"See": {
+			displayName: "See",
 			description: "Some sample text",
-			height: 40
+			height: 50
 		},
-		"Forrest": {
-			displayName: "Forrest",
+		"Church": {
+			displayName: "Curch",
 			description: "Some sample text",
-			height: 40
-		},
-		"Caves": {
-			displayName: "Caves",
-			description: "Some sample text",
-			height: 40
-		},
-		"Wormhole": {
-			displayName: "Einstein-Rosen Bridge",
-			description: "Some sample text",
-			height: 40
+			height: 50
 		},
 	}
 };

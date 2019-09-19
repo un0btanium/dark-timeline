@@ -13,7 +13,7 @@ export default class SVGViewbox extends Component {
 			<svg
 				style={{ background: '#222222' }}
 				width="100%"
-				height="900px"
+				height="2000px"
 				xmlns="http://www.w3.org/2000/svg"
 			>
 				{this.props.children}

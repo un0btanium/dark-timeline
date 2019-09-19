@@ -9,6 +9,7 @@ import locations from '../data/locations';
 import characterColors from '../data/characterColors';
 
 import day15_11_2019 from '../data/days/15.11.2019';
+import day21_06_2019 from '../data/days/21.06.2019';
 
 export default class Timeline extends Component {
 
@@ -55,11 +56,16 @@ export default class Timeline extends Component {
 
 		this.state = {
 			episode: 1,
-			currentDay: 15,
-			currentMonth: 11,
+			// currentDay: 15,
+			// currentMonth: 11,
+			currentDay: 21,
+			currentMonth: 6,
 			data: {
 				11: {
 					15: day15_11_2019
+				},
+				6: {
+					21: day21_06_2019
 				}
 			},
 			locations: locations,
